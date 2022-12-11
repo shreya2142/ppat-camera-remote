@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "rocc",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/simonmitchell/rocc.git",
+      "state" : {
+        "revision" : "2991fb2a71ae056f84526d2f57085badff4219d8",
+        "version" : "2.1.0"
+      }
+    }
+  ],
+  "version" : 2
+}
